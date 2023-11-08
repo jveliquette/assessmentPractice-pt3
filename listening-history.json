@@ -1,0 +1,47 @@
+[
+    {
+        "title": "Imagine",
+        "artist": "John Lennon",
+        "playCount": 42
+    },
+    {
+        "title": "Hey Jude",
+        "artist": "The Beatles",
+        "playCount": 35
+    },
+    {
+        "title": "Let It Be",
+        "artist": "The Beatles",
+        "playCount": 40
+    },
+    {
+        "title": "Bohemian Rhapsody",
+        "artist": "Queen",
+        "playCount": 60
+    },
+    {
+        "title": "Stairway to Heaven",
+        "artist": "Led Zeppelin",
+        "playCount": 25
+    },
+    {
+        "title": "Hallelujah",
+        "artist": "Leonard Cohen",
+        "playCount": 15
+    },
+    {
+        "title": "Sweet Child O' Mine",
+        "artist": "Guns N' Roses",
+        "playCount": 30
+    },
+    {
+        "title": "Wonderwall",
+        "artist": "Oasis",
+        "playCount": 32
+    },
+    {
+        "title": "Hotel California",
+        "artist": "The Eagles",
+        "playCount": 27
+    }
+]
